@@ -48,7 +48,7 @@ function App() {
           <div className="space-y-2">
             <h1 className="text-3xl font-semibold tracking-tight text-slate-900 sm:text-4xl">CQC Registration Tracker</h1>
             <p className="max-w-2xl text-sm leading-6 text-slate-600 sm:text-base">
-              A simple overview of what needs doing, what is waiting, and what is already done.
+              A grouped overview of the consultant checklist for CQC domiciliary care registration.
             </p>
           </div>
         </header>
