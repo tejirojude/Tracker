@@ -72,7 +72,7 @@ function App() {
         <header className="space-y-3 rounded-3xl border border-slate-200 bg-white px-5 py-6 shadow-sm sm:px-6 sm:py-7">
           <div className="flex flex-col gap-5 sm:flex-row sm:items-center sm:gap-6">
             <img
-              src="/priority-support-solutions-logo.svg"
+              src="/logo/priority-support-solutions-logo.png"
               alt="Priority Support Solutions"
               className="h-24 w-24 shrink-0 self-start rounded-2xl border border-slate-100 bg-white object-contain p-2 shadow-sm sm:h-28 sm:w-28"
             />
