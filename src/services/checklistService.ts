@@ -56,7 +56,7 @@ async function seedChecklistItems(): Promise<ChecklistLoadResult> {
     return {
       items: checklistItems,
       source: 'local',
-      message: 'Supabase seed failed, using local mock data.',
+      message: 'Supabase seed failed, using local data.',
     }
   }
 
