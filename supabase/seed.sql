@@ -1,0 +1,2 @@
+-- Starter data is seeded by the app on first load if this table is empty.
+-- Keep this file so Supabase CLI commands that expect a seed file still work.
