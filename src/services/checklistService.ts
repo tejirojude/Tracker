@@ -44,7 +44,7 @@ async function seedChecklistItems(): Promise<ChecklistLoadResult> {
     return {
       items: checklistItems,
       source: 'local',
-      message: 'Using local mock data.',
+      message: 'Using local data.',
     }
   }
 
@@ -72,7 +72,7 @@ export async function loadChecklistItems(): Promise<ChecklistLoadResult> {
     return {
       items: checklistItems,
       source: 'local',
-      message: 'Using local mock data.',
+      message: 'Using local data.',
     }
   }
 
@@ -101,7 +101,7 @@ export async function loadChecklistItems(): Promise<ChecklistLoadResult> {
     return {
       items: checklistItems,
       source: 'local',
-      message: 'Supabase unavailable, using local mock data.',
+      message: 'Supabase unavailable, using local data.',
     }
   }
 }
